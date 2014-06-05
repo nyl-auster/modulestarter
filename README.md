@@ -1,0 +1,4 @@
+modulestarter
+=============
+
+Drupal module starter
